@@ -1,6 +1,6 @@
 
 import ReactImg from "./assets/react-core-concepts.png";
-import Coreconcept from "./Components/Coreconcept.jsx";
+import Coreconcept from "./Components/CoreConcept.jsx";
 import Example from "./Components/Example.jsx";
 
 

@@ -1,4 +1,4 @@
-import CoreComponents from "../Components/Corecomponents.jsx";
+import CoreComponents from "./CoreComponents.jsx";
 import {CORE_CONCEPTS} from "../data.js";
 export default function Coreconcept(){
     return  <section id="core-concepts">
